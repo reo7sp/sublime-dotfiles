@@ -1,0 +1,39 @@
+{
+	"caret_style": "solid",
+	"close_windows_when_empty": true,
+	"color_scheme": "Solarized (light).sublime-color-scheme",
+	"create_window_at_startup": false,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_face": "Jetbrains Mono",
+	"font_options":
+	[
+		"no_liga",
+		"no_clig",
+		"no_calt"
+	],
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"line_padding_bottom": 1,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintageous_use_ctrl_keys": true,
+	"always_show_minimap_viewport": true,
+	"neovintageous_build_version": 13200,
+	"vintageous_use_super_keys": false,
+	"word_wrap": false,
+	"show_rel_path": true,
+	"index_files": true,
+}

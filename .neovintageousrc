@@ -1,0 +1,5 @@
+" Type :help nv for help.
+
+map 0 ^
+nnoremap j gj
+nnoremap k gk
