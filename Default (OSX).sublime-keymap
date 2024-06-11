@@ -11,5 +11,6 @@
     { "keys": ["super+e"], "command": "open_recently_closed_file", "args": {"current_project_only": false} },
     { "keys": ["super+k", "super+t"], "command": "pass" },
     { "keys": ["ctrl+tab"], "command": "next_view" },
-    { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["super+ctrl+p"], "command": "project_manager", "args": {"action": "open_project_in_new_window"} }
 ]
