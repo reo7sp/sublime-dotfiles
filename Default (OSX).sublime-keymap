@@ -8,7 +8,7 @@
     { "keys": ["super+shift+u"], "command": "lsp_symbol_references" },
     { "keys": ["alt+super+w"], "command": "close_other_tabs" },
     { "keys": ["ctrl+super+w"], "command": "pass" },
-    { "keys": ["super+e"], "command": "open_recently_closed_file", "args": {"current_project_only": false} },
+    { "keys": ["super+e"], "command": "open_recently_closed_file", "args": {"current_project_only": true} },
     { "keys": ["super+k", "super+t"], "command": "pass" },
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },

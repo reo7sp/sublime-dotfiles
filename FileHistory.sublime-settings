@@ -1,5 +1,5 @@
 {
     "max_backup_count": 0,
     "real_path": true,
-    "delete_all_on_startup": true,
+    "cleanup_on_startup": false,
 }
