@@ -1,7 +1,4 @@
-// Settings in here override those in "RainbowCSV.sublime-settings"
-
 {
-    
     "rainbow_csv_max_file_size_bytes": 5000000,
     "allow_newlines_in_fields": true
 }
