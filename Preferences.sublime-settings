@@ -40,4 +40,9 @@
 	"vintageous_auto_switch_input_method_default": "com.apple.keylayout.ABC",
 	"vintageous_auto_switch_input_method_get_cmd": "/usr/local/bin/im-select",
 	"vintageous_auto_switch_input_method_set_cmd": "/usr/local/bin/im-select {im}",
+	"vintageous_enable_abolish": false,
+	"vintageous_enable_commentary": false,
+	"vintageous_enable_unimpaired": false,
+	"vintageous_enable_sneak": true,
+	"vintageous_sneak_use_ic_scs": 1,
 }
