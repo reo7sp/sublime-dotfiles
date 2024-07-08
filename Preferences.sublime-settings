@@ -2,7 +2,7 @@
 	"caret_style": "solid",
 	"close_windows_when_empty": true,
 	"color_scheme": "gruvbox (Dark) (Hard).sublime-color-scheme",
-	"create_window_at_startup": false,
+	"create_window_at_startup": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
