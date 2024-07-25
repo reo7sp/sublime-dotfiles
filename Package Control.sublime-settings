@@ -25,7 +25,6 @@
 		"LSP-bash",
 		"LSP-dockerfile",
 		"LSP-gopls",
-		"LSP-graphql",
 		"LSP-json",
 		"LSP-lua",
 		"LSP-pylsp",

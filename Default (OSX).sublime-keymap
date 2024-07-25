@@ -12,5 +12,6 @@
     { "keys": ["super+k", "super+t"], "command": "pass" },
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
-    { "keys": ["super+ctrl+p"], "command": "project_manager", "args": {"action": "open_project_in_new_window"} }
+    { "keys": ["super+ctrl+p"], "command": "project_manager", "args": {"action": "open_project_in_new_window"} },
+    { "keys": [",", "t"], "command": "neovintageous", "args": { "action": "toggle_side_bar" }, "context": [ { "key": "control", "operand": "sidebar_tree" } ] },
 ]
