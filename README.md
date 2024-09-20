@@ -3,7 +3,9 @@
 ## How to install
 
 ```sh
+git clone https://github.com/reo7sp/sublime-dotfiles
+
 mkdir -p "~/Library/Application Support/Sublime Text 3/Packages/"
-cd "~/Library/Application Support/Sublime Text 3/Packages/"
-git clone https://github.com/reo7sp/sublime-dotfiles User
+
+mv sublime-dotfiles "~/Library/Application Support/Sublime Text 3/Packages/User"
 ```
