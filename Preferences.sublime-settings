@@ -1,5 +1,4 @@
 {
-	"caret_style": "solid",
 	"close_windows_when_empty": true,
 	"color_scheme": "gruvbox (Dark) (Hard).sublime-color-scheme",
 	"create_window_at_startup": true,
@@ -25,7 +24,6 @@
 		120
 	],
 	"save_on_focus_lost": true,
-	"show_encoding": true,
 	"show_full_path": true,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
@@ -35,7 +33,6 @@
 	"vintageous_use_super_keys": false,
 	"word_wrap": false,
 	"show_rel_path": true,
-	"index_files": true,
 	"vintageous_auto_switch_input_method": true,
 	"vintageous_auto_switch_input_method_default": "com.apple.keylayout.ABC",
 	"vintageous_auto_switch_input_method_get_cmd": "/usr/local/bin/im-select",
@@ -46,4 +43,5 @@
 	"vintageous_enable_sneak": true,
 	"vintageous_sneak_use_ic_scs": 1,
 	"relative_line_numbers": true,
+	"scroll_speed": 0,
 }
