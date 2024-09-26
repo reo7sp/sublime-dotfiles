@@ -40,4 +40,5 @@
 	"vintageous_sneak_use_ic_scs": 1,
 	"relative_line_numbers": true,
 	"scroll_speed": 0,
+	"index_files": true,
 }
