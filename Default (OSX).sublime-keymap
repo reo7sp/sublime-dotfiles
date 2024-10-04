@@ -18,4 +18,5 @@
     { "keys": ["ctrl+l"], "command": "travel_to_pane", "args": {"direction": "right"} },
     { "keys": ["ctrl+j"], "command": "travel_to_pane", "args": {"direction": "down"} },
     { "keys": ["ctrl+h"], "command": "travel_to_pane", "args": {"direction": "left"} },
+    { "keys": ["ctrl+r"], "command": "build", "args": {"select": true} },
 ]
