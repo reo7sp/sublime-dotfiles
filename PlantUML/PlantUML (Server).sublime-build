@@ -1,0 +1,4 @@
+{
+	"selector": "source.plantuml",
+	"shell_cmd": "curl \"http://localhost:18080/png/`plantuml -encodeurl $file_name`\" > $file_base_name.png"
+}
