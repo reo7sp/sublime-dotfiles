@@ -42,4 +42,5 @@
 	"neovintageous_build_version": 13200,
 	"relative_line_numbers": true,
 	"index_files": true,
+	"hardware_acceleration": "opengl",
 }
