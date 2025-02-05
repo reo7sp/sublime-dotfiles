@@ -58,6 +58,7 @@
 		"Terminal",
 		"TOML",
 		"TrailingSpaces",
+		"VimL",
 		"YAML Nav",
 	],
 }
