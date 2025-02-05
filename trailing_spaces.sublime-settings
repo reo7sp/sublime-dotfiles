@@ -1,5 +1,3 @@
-// Settings in here override those in "TrailingSpaces/trailing_spaces.sublime-settings"
-
 {
     "modified_lines_only": true,
     "trim_on_save": true,
