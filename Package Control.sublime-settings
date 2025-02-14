@@ -24,6 +24,7 @@
 		"JSON Reindent",
 		"LSP",
 		"LSP-bash",
+		"LSP-clangd",
 		"LSP-css",
 		"LSP-dockerfile",
 		"LSP-gopls",
