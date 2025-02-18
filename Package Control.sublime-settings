@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"Advanced CSV",
 		"AlignTab",
 		"Case Conversion",
@@ -24,7 +23,6 @@
 		"JSON Reindent",
 		"LSP",
 		"LSP-bash",
-		"LSP-clangd",
 		"LSP-css",
 		"LSP-dockerfile",
 		"LSP-gopls",
