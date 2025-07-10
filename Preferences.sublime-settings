@@ -26,6 +26,7 @@
 	"show_rel_path": true,
 	"show_project_first": true,
 	"enable_tab_scrolling": false,
+	"mini_diff": "auto",
 	"always_show_minimap_viewport": true,
 	"scroll_speed": 0,
 	"save_on_focus_lost": true,
