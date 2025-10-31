@@ -9,11 +9,11 @@
 		"no_calt"
 	],
 	"font_size": 14,
+	"line_padding_bottom": 1,
 	"ignored_packages":
 	[
 		"Vintage",
 	],
-	"line_padding_bottom": 1,
 	"rulers":
 	[
 		80,
@@ -37,12 +37,11 @@
 	"vintageous_use_super_keys": false,
 	"vintageous_enable_abolish": false,
 	"vintageous_enable_commentary": false,
-	"vintageous_enable_unimpaired": false,
+	"vintageous_enable_unimpaired": true,
 	"vintageous_enable_sneak": true,
 	"vintageous_sneak_use_ic_scs": 1,
 	"vintageous_enable_surround": true,
 	"neovintageous_build_version": 13200,
 	"relative_line_numbers": true,
-	"index_files": true,
-	"hardware_acceleration": "opengl",
+	"index_files": true
 }
