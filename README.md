@@ -5,6 +5,6 @@
 ```sh
 git clone https://github.com/reo7sp/sublime-dotfiles
 
-mkdir -p "~/Library/Application Support/Sublime Text 3/Packages/"
-mv sublime-dotfiles "~/Library/Application Support/Sublime Text 3/Packages/User"
+mkdir -p "$HOME/Library/Application Support/Sublime Text/Packages"
+mv sublime-dotfiles "$HOME/Library/Application Support/Sublime Text/Packages/User"
 ```
