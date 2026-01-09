@@ -1,15 +1,16 @@
 {
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Breakers.sublime-color-scheme",
-	"font_face": "Jetbrains Mono",
+	"font_face": "Jetbrains Mono Medium",
 	"font_options":
 	[
 		"no_liga",
 		"no_clig",
-		"no_calt"
+		"no_calt",
+		"gray_antialias",
 	],
 	"font_size": 14,
-	"line_padding_bottom": 1,
+	"line_padding_bottom": 0,
 	"ignored_packages":
 	[
 		"Vintage",
