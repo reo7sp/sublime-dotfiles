@@ -1,7 +1,7 @@
 {
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Breakers.sublime-color-scheme",
-	"font_face": "Jetbrains Mono Medium",
+	"font_face": "Iosevka Medium",
 	"font_options":
 	[
 		"no_liga",
