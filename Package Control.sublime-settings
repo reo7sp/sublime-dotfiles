@@ -21,6 +21,7 @@
 		"HTML5",
 		"Indent XML",
 		"Jinja2",
+		"Json Colors And Navigation",
 		"JSON Reindent",
 		"LSP",
 		"LSP-bash",
@@ -60,5 +61,6 @@
 		"TOML",
 		"TrailingSpaces",
 		"YAML Nav",
+		"YamlToJson",
 	],
 }
